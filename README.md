@@ -5,7 +5,7 @@ I was inspired by [this](https://www.youtube.com/watch?v=QPZ0pIK_wsc&t=135s) vid
 
 It seemed like a small, interesting thing to code. So I gave it a shot.
 
-# Rules
+# Rules of FizzBuzz
 You and a friend decide on some range of numbers
 
 Alternate reading out the numbers, BUT if the number is divisble by 3 then you say fizz, or if the number is divisble by 5 then you say buzz.
